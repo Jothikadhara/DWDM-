@@ -18,3 +18,5 @@ median_value <- L + ((N_by_2 - F) / f) * h
 
 # Print the median
 print(median_value)
+output:
+The median value is 32.94.
